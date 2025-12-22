@@ -1,4 +1,4 @@
-# gitdemo
+# ASSIGNMENT 1
 
 This repository contains two Python programs demonstrating basic Python concepts.
 
